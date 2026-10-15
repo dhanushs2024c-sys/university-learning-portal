@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: university-portal
-          image: dhan01/university-learning-portal:v1
+          image: dhan01/university-learning-portal:v2
           ports:
             - containerPort: 80
 
